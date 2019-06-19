@@ -1,0 +1,13 @@
+Parsing locus 1: ATP6_prankaln_one_line_renamed
+Parsing locus 2: ATP8_prankaln_one_line_renamed
+Parsing locus 3: COX1_prankaln_one_line_renamed
+Parsing locus 4: COX2_prankaln_one_line_renamed
+Parsing locus 5: COX3_prankaln_one_line_renamed
+Parsing locus 6: CYTB_prankaln_one_line_renamed
+Parsing locus 7: NADH1_prankaln_one_line_renamed
+Parsing locus 8: NADH2_prankaln_one_line_renamed
+Parsing locus 9: NADH3_prankaln_one_line_renamed
+Parsing locus 10: NADH4L_prankaln_one_line_renamed
+Parsing locus 11: NADH4_prankaln_one_line_renamed
+Parsing locus 12: NADH5_prankaln_one_line_renamed
+There are 12 loci visited to generate summary statistics

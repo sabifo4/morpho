@@ -1,0 +1,10 @@
+Length for species Ail_ful is: 10991
+Length for species Can_lyc is: 10991
+Length for species Cer_tho is: 10991
+Length for species Cuo_alp is: 10991
+Length for species Nan_bin is: 10991
+Length for species Oto_meg is: 10991
+Length for species Par_her is: 10991
+Length for species Spe_ven is: 10991
+Length for species Urs_ame is: 10991
+Length for species Vul_vul is: 10991

@@ -1,0 +1,12 @@
+File 1 visited : ATP6_prankaln
+File 2 visited : ATP8_prankaln
+File 3 visited : COX1_prankaln
+File 4 visited : COX2_prankaln
+File 5 visited : COX3_prankaln
+File 6 visited : CYTB_prankaln
+File 7 visited : NADH1_prankaln
+File 8 visited : NADH2_prankaln
+File 9 visited : NADH3_prankaln
+File 10 visited : NADH4L_prankaln
+File 11 visited : NADH4_prankaln
+File 12 visited : NADH5_prankaln
